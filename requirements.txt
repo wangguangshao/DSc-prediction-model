@@ -1,0 +1,8 @@
+streamlit
+pandas
+joblib
+scikit-learn
+numpy
+cython
+openpyxl
+xlsxwriter>=3.1.2
